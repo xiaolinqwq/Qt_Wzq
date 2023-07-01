@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/wzq.jpg</file>
+        <file>image/headimg.png</file>
+        <file>image/b.png</file>
+        <file>image/w.png</file>
+        <file>image/gamebackground.png</file>
+    </qresource>
+</RCC>
